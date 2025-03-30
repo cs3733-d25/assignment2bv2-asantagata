@@ -1,7 +1,7 @@
 
 import './App.css'
 
-function Intro({name1, name2}) {
+function Intro({name1, name2}: {name1: string, name2: string}) {
 
     return (
         <>
