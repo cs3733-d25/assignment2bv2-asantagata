@@ -40,3 +40,34 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.collapse {
+  border-collapse: collapse;
+  margin: 0px auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman";
+  text-align: center;
+  color: silver;
+}
+
+
+table, tr, td, th {
+  border: 1px solid dodgerblue;
+  font-family: Arial;
+}
+
+#table {
+  font-family: Arial;
+}
+
+
+#AI_Chess_Board {
+  text-align: center;
+  display:block;
+  margin:auto;
+}
+
+
